@@ -23,3 +23,5 @@ columnmean <- function(y, removeNA = TRUE){
 
 args(paste) 
 function(...,sep=":",collapse=NULL)
+    
+x <- 2
